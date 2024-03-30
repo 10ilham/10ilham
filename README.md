@@ -12,7 +12,8 @@
   </a>
 </div>
 
-![Logo](https://file.notion.so/f/f/c8e21fd1-aa93-4db3-9ae0-6b3890a71ba5/529a07c0-8417-4ba6-85e7-b1cd79fe04a1/Desain_tanpa_judul.gif?id=9d3581c3-d794-4de8-b213-2c6168bc0148&table=block&spaceId=c8e21fd1-aa93-4db3-9ae0-6b3890a71ba5&expirationTimestamp=1710849600000&signature=QNjE8lNpesC9DTZaEfoIruSEOOLkPqF32nEsc6a2c78)
+![Desain tanpa judul](https://github.com/10ilham/10ilham/assets/128197332/29788684-29e3-4d02-b3ad-4fe637ba3923)
+
 
  <h3 align="center">A passionate frontend developer from Sundanese</h3>
 

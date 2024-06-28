@@ -15,7 +15,7 @@
 ![Desain tanpa judul](https://github.com/10ilham/10ilham/assets/128197332/29788684-29e3-4d02-b3ad-4fe637ba3923)
 
 
- <h3 align="center">A passionate frontend developer from Sundanese</h3>
+ <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 ##
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=10ilham&theme=radical&row=1&margin-w=30&no-frame=true&no-bg=true)](#)
+
 
 </div>
 
@@ -108,14 +108,13 @@
 </div>
 
 
-<h2 align="center">🤝 Support</h2>
 
 <img src="./assets/images/stars.gif" align="left" width="100" height="125" />
 <img src="./assets/images/stars.gif" align="right" width="100" height="125" />
 
 <p align="center">Made with ❤️ in Indonesian </p>
 
-<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align="center">⚡️<i>Enjoy!</i>⚡️</h1>
 
 <p align="center">
   <img href="#" src="./assets/svg/footer.svg" />

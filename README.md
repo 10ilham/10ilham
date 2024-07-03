@@ -58,8 +58,6 @@
 
 - 📝 I regularly write articles on <a href="https://ilhamajaa.blogspot.com/" target="_blank">Click</a>
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 

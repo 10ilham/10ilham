@@ -15,7 +15,7 @@
 ![Desain tanpa judul](https://github.com/10ilham/10ilham/assets/128197332/29788684-29e3-4d02-b3ad-4fe637ba3923)
 
 
- <h3 align="center">A passionate frontend developer from Indonesian</h3>
+ <h3 align="center">A passionate backend developer from Indonesian</h3>
 
 ##
 
